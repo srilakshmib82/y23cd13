@@ -1,0 +1,70 @@
+Chapter 1: Introduction
+
+1.1 Overview of Cloud Data Analytics — 1
+1.2 Introduction to Cloud Computing — 2
+1.3 Importance and Benefits of Cloud Data Analytics — 3
+1.4 Scope of Cloud Data Analytics — 4
+
+Chapter 2: Google Cloud and Data Management
+
+2.1 Google Cloud Platform — 6
+2.2 Cloud Data Warehouses and BigQuery — 7
+2.3 Data Management and Data Lifecycle — 9
+2.4 Cloud Data Storage and Dataproc — 11
+2.5 Data Security and Access Management — 12
+
+Chapter 3: Data Transformation and Pipelines
+
+3.1 Introduction to Data Transformation — 14
+3.2 Data Pipelines — 15
+3.3 ETL and ELT — 16
+3.4 Data Ingestion and Mapping — 17
+3.5 Data Cleaning and Validation — 18
+3.6 Data Aggregation and Deduplication — 19
+
+Chapter 4: Data Analysis
+
+4.1 SQL for Data Analysis — 21
+4.2 Data Joins and Derivation — 22
+4.3 RFM Analysis — 23
+4.4 Customer Segmentation — 24
+4.5 Data Optimization — 25
+
+Chapter 5: Data Visualization
+
+5.1 Introduction to Data Visualization — 27
+5.2 Visualization Techniques — 28
+5.3 Business Intelligence Dashboards — 29
+5.4 Dashboard Design and Data Storytelling — 30
+5.5 Stakeholder Requirements and Wireframes — 31
+
+Chapter 6: Looker and Looker Studio
+
+6.1 Introduction to Looker Studio — 33
+6.2 Dimensions and Measures — 34
+6.3 Data Aggregation, Filtering and Blending — 35
+6.4 Reports and Dashboards — 36
+6.5 LookML and Data Modeling — 37
+
+Chapter 7: Practical Applications of Cloud Data Analytics
+
+7.1 Real-World Applications of Cloud Data Analytics — 39
+
+7.2 E-Commerce and Customer Analytics — 40
+
+7.3 Business Performance and Sales Analytics — 41
+
+7.4 Data-Driven Decision Making — 42
+
+7.5 Cloud Analytics in Different Industries — 43
+
+7.6 Benefits of Cloud-Based Analytics — 44
+Chapter 8: Conclusion and Learning Outcomes
+
+8.1 Skills Acquired — 46
+8.2 Learning Outcomes — 47
+8.3 Challenges and Solutions — 48
+8.4 Conclusion — 49
+8.5 Future Scope — 50
+
+References — 52
